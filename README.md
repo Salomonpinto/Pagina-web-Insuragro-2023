@@ -20,7 +20,7 @@ Presentar la empresa y sus valores de forma clara y atractiva.
 
 Incluir información sobre los productos y servicios ofrecidos.
 
-Facilitar la comunicación con clientes y proveedores mediante formularios de contacto y otros métodos.
+Facilitar la comunicación con clientes.
 
 🛠️ Características
 ✅ Diseño limpio y profesional acorde a la industria.
